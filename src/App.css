@@ -1,0 +1,40 @@
+body{
+    background: lightblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #333;
+    padding-left: 100px;
+}
+
+ul {
+  list-style: none;
+}
+input {
+  width: 200px;
+  height: 40px;
+  font-size: 18px;
+  outline: none;
+}
+.btn{
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    color: white;
+
+}
+.add-btn{
+    background: orange;
+}
+.delete-btn{
+    background: red;
+}
+.app-title{
+    font-size: 70px;
+}
+.container{
+    width: 500px;
+    border: 5px solid orange;
+    border-radius: 25px;
+    padding: 3rem;
+}
